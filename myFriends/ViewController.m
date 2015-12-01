@@ -22,7 +22,7 @@
 
 
     self.friendsArray = [NSArray arrayWithObjects:@"Emily", @"Phillip", @"Robin", @"Bill", @"Kristin", nil];
-    self.adjectivesArray = [NSArray arrayWithObjects:@"nosey", @"aloof", @"cunty", @"gay", @"carefree", nil];
+    self.adjectivesArray = [NSArray arrayWithObjects:@"nosey", @"aloof", @"cunty", @"gay", @"carefree", @"whorish", nil];
 
 
     for (NSString *friend in self.friendsArray)
