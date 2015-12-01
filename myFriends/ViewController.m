@@ -21,7 +21,7 @@
     [super viewDidLoad];
 
 
-    self.friendsArray = [NSArray arrayWithObjects:@"Emily", @"Phillip", @"Robin", @"Bill", @"Kristin", nil];
+    self.friendsArray = [NSArray arrayWithObjects:@"Emily", @"Phillip", @"Robin", @"Bill", @"Kristin", @"Edward", nil];
     self.adjectivesArray = [NSArray arrayWithObjects:@"nosey", @"aloof", @"cunty", @"gay", @"carefree", nil];
 
 
